@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jakub Owsianka</h1>
-<h3 align="center">I am an ambitious person who wants to become a programmer. I am focused on learning and continuous development</h3>
 
 - 🌱 I’m currently learning **Java, Spring and in the future Angular**
 
